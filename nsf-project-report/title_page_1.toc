@@ -1,0 +1,20 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Problem Formulation}{4}
+\contentsline {section}{\numberline {3}Proposed Method}{5}
+\contentsline {subsection}{\numberline {3.1}Eyeblink data cleaning and preprocessing}{5}
+\contentsline {subsection}{\numberline {3.2}Handling Outliers in Eyeblink dataset}{5}
+\contentsline {subsection}{\numberline {3.3}Acoustic Feature Set}{6}
+\contentsline {subsection}{\numberline {3.4}Feature Selection for Acoustic Feature Set}{6}
+\contentsline {subsection}{\numberline {3.5}Neural Networks}{6}
+\contentsline {subsection}{\numberline {3.6}Support Vector Regression}{7}
+\contentsline {section}{\numberline {4}Evaluation and Analysis}{9}
+\contentsline {subsection}{\numberline {4.1}Datasets}{9}
+\contentsline {subsection}{\numberline {4.2}Evaluation Metric}{9}
+\contentsline {subsection}{\numberline {4.3}Results}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Full Audience and Feature Selection with Eigen-analysis}{10}
+\contentsline {subsubsection}{\numberline {4.3.2}Full Audience and Feature Selection with Correlation-analysis}{11}
+\contentsline {subsubsection}{\numberline {4.3.3}Reduced Audience and Feature Selection with Eigen-analysis}{12}
+\contentsline {subsubsection}{\numberline {4.3.4}Reduced Audience and Feature Selection with Correlation-analysis}{13}
+\contentsline {subsubsection}{\numberline {4.3.5}Relevant Features with respect to Attention}{14}
+\contentsline {section}{\numberline {5}Conclusion}{19}
